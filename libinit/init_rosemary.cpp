@@ -17,7 +17,7 @@ static const variant_info_t maltose_info = {
     .brand = "Redmi",
     .device = "maltose",
     .marketname = "Redmi Note 10S",
-    .model = "M2101K7BL",
+    .model = "Redmi Note 10S",
     .build_fingerprint = "Redmi/maltose_global/maltose:12/SP1A.210812.016/V14.0.7.0.TKLMIXM:user/release-keys",
 
     .nfc = false,
@@ -31,7 +31,7 @@ static const variant_info_t rosemary_info = {
     .brand = "Redmi",
     .device = "rosemary",
     .marketname = "Redmi Note 10S",
-    .model = "M2101K7BNY",
+    .model = "Redmi Note 10S",
     .build_fingerprint = "Redmi/rosemary_global/rosemary:12/SP1A.210812.016/V14.0.7.0.TKLMIXM:user/release-keys",
 
     .nfc = true,
@@ -45,7 +45,7 @@ static const variant_info_t rosemaryp_info = {
     .brand = "POCO",
     .device = "rosemary",
     .marketname = "POCO M5s",
-    .model = "2207117BPG",
+    .model = "POCO M5s",
     .build_fingerprint = "POCO/rosemary_p_global/rosemary:12/SP1A.210812.016/V14.0.7.0.TKLMIXM:user/release-keys",
 
     .nfc = true,
@@ -59,7 +59,7 @@ static const variant_info_t secret_info = {
     .brand = "Redmi",
     .device = "secret",
     .marketname = "Redmi Note 10S",
-    .model = "M2101K7BG",
+    .model = "Redmi Note 10S",
     .build_fingerprint = "Redmi/secret_global/secret:12/SP1A.210812.016/V14.0.7.0.TKLMIXM:user/release-keys",
 
     .nfc = false,
@@ -73,7 +73,7 @@ static const variant_info_t secretr_info = {
     .brand = "Redmi",
     .device = "secret",
     .marketname = "Redmi Note 11 SE",
-    .model = "22087RA4DI",
+    .model = "Redmi Note 11 SE",
     .build_fingerprint = "Redmi/secret_global2/secret:12/SP1A.210812.016/V14.0.7.0.TKLMIXM:user/release-keys",
 
     .nfc = false,
